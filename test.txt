@@ -8,3 +8,11 @@ Add another line.
 
 Git pull  origin  master
 
+Edit one file
+
+git add  .
+
+git commit  -m  "commit5"
+
+git push  origin  master
+
