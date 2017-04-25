@@ -78,7 +78,7 @@ Finally dimensional reduction is implemented by SVD.
 
 Depending on your problem different strategies may be more effective or appropriate.
 
-![](../figA)
+![](./figA.png)
 
 ![](../inst/images/figB)
 
