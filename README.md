@@ -27,6 +27,9 @@ http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html
 https://cran.r-project.org/web/packages/gridExtra/vignettes/arrangeGrob.html
 
 
+http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/81-ggplot2-easy-way-to-mix-multiple-graphs-on-the-same-page/
+
+
 #Julia-figures
 
 
