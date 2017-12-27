@@ -8,15 +8,8 @@ After forking this repository, you can make some changes to the project, and sub
 
 For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
 
-##try this
-##try that
-##good try
-##push
 
-
-
-
-###reference links
+###Reference links
 
 #Top50-ggplot2-figures
 
@@ -30,6 +23,11 @@ https://cran.r-project.org/web/packages/gridExtra/vignettes/arrangeGrob.html
 http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/81-ggplot2-easy-way-to-mix-multiple-graphs-on-the-same-page/
 
 
-#Julia-figures
+http://rstudio-pubs-static.s3.amazonaws.com/2852_379274d7c5734f979e106dcf019ec46c.html
+
+
+###Julia-figures
+
+https://gist.github.com/gizmaa/7214002
 
 
