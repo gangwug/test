@@ -22,12 +22,10 @@ https://cran.r-project.org/web/packages/gridExtra/vignettes/arrangeGrob.html
 
 http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/81-ggplot2-easy-way-to-mix-multiple-graphs-on-the-same-page/
 
-
 http://rstudio-pubs-static.s3.amazonaws.com/2852_379274d7c5734f979e106dcf019ec46c.html
 
+###align plot panels
+https://cran.r-project.org/web/packages/egg/vignettes/Ecosystem.html
 
 ###Julia-figures
-
 https://gist.github.com/gizmaa/7214002
-
-
