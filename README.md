@@ -28,5 +28,10 @@ http://rstudio-pubs-static.s3.amazonaws.com/2852_379274d7c5734f979e106dcf019ec46
 
 https://cran.r-project.org/web/packages/egg/vignettes/Ecosystem.html
 
+###data tidy
+
+http://garrettgman.github.io/tidying/
+
 ###Julia-figures
+
 https://gist.github.com/gizmaa/7214002
