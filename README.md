@@ -43,3 +43,7 @@ http://garrettgman.github.io/tidying/
 ###Julia-figures
 
 https://gist.github.com/gizmaa/7214002
+
+###Adding hyperlinks to Shiny plots
+
+https://stackoverflow.com/questions/32057164/adding-hyperlinks-to-shiny-plots
