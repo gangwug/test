@@ -36,6 +36,8 @@ https://cran.r-project.org/web/packages/egg/vignettes/Ecosystem.html
 
 http://shiny.rstudio.com/articles/shinyapps.html
 
+https://github.com/trestletech/dallas-police/
+
 ###data tidy
 
 http://garrettgman.github.io/tidying/
@@ -45,11 +47,4 @@ http://garrettgman.github.io/tidying/
 https://gist.github.com/gizmaa/7214002
 
 ###Adding hyperlinks to Shiny plots
-
 https://stackoverflow.com/questions/32057164/adding-hyperlinks-to-shiny-plots
-
-###An example of shinny app
-
-https://github.com/trestletech/dallas-police/
-
-
