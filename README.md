@@ -47,3 +47,9 @@ https://gist.github.com/gizmaa/7214002
 ###Adding hyperlinks to Shiny plots
 
 https://stackoverflow.com/questions/32057164/adding-hyperlinks-to-shiny-plots
+
+###An example of shinny app
+
+https://github.com/trestletech/dallas-police/
+
+
