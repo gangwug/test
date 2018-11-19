@@ -11,11 +11,12 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 
 ###Reference links
 
-#Top50-ggplot2-figures
+###Top50-ggplot2-figures
 
 http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html
 
-#Graph gallery
+###Graph gallery
+
 https://www.r-graph-gallery.com/
 
 
@@ -47,4 +48,5 @@ http://garrettgman.github.io/tidying/
 https://gist.github.com/gizmaa/7214002
 
 ###Adding hyperlinks to Shiny plots
+
 https://stackoverflow.com/questions/32057164/adding-hyperlinks-to-shiny-plots
