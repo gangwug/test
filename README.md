@@ -37,6 +37,11 @@ https://cran.r-project.org/web/packages/egg/vignettes/Ecosystem.html
 
 http://shiny.rstudio.com/articles/shinyapps.html
 
+###Statistical Soup: ANOVA, ANCOVA, MANOVA, & MANCOVA
+http://www.statsmakemecry.com/smmctheblog/stats-soup-anova-ancova-manova-mancova
+
+
+
 https://github.com/trestletech/dallas-police/
 
 ###data tidy
