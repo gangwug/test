@@ -64,3 +64,13 @@ https://github.com/hms-dbmi/UpSetR/issues/105
 
 https://scriptsandstatistics.wordpress.com/2018/04/26/how-to-plot-venn-diagrams-using-r-ggplot2-and-ggforce/
 
+###UMAP and t-SNE
+
+https://cran.r-project.org/web/packages/umap/vignettes/umap.html
+
+https://www.r-bloggers.com/playing-with-dimensions-from-clustering-pca-t-sne-to-carl-sagan/
+
+https://www.r-bloggers.com/quick-and-easy-t-sne-analysis-in-r/
+
+
+
