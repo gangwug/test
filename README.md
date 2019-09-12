@@ -57,6 +57,9 @@ http://www.statsmakemecry.com/smmctheblog/stats-soup-anova-ancova-manova-mancova
 
 https://cran.r-project.org/web/packages/MANOVA.RM/vignettes/Introduction_to_MANOVA.RM.html
 
+http://www.sthda.com/english/wiki/manova-test-in-r-multivariate-analysis-of-variance
+
+
 ###Discussion about 'plotting multiple panels of UpSetR'
 
 https://github.com/hms-dbmi/UpSetR/issues/105
