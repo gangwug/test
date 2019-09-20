@@ -43,6 +43,10 @@ https://github.com/trestletech/dallas-police/
 
 http://garrettgman.github.io/tidying/
 
+###replace multiple values
+
+plyr::mapvalues(wtime, from = c(6, 18, 12, 0), to = c("6am", "6pm", "12pm", "12am"))
+
 ###Julia-figures
 
 https://gist.github.com/gizmaa/7214002
