@@ -39,6 +39,7 @@ http://shiny.rstudio.com/articles/shinyapps.html
 
 https://github.com/trestletech/dallas-police/
 
+
 ###data tidy
 
 http://garrettgman.github.io/tidying/
@@ -87,4 +88,7 @@ https://www.r-bloggers.com/playing-with-dimensions-from-clustering-pca-t-sne-to-
 
 https://www.r-bloggers.com/quick-and-easy-t-sne-analysis-in-r/
 
+###position two legends independently in ggplot
+
+https://stackoverflow.com/questions/13143894/how-do-i-position-two-legends-independently-in-ggplot
 
