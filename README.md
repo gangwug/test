@@ -20,66 +20,57 @@ http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html
 https://www.r-graph-gallery.com/
 
 
-###arrange the figures with 'gridExtra' package
-
-https://cran.r-project.org/web/packages/gridExtra/vignettes/arrangeGrob.html
-
-
-http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/81-ggplot2-easy-way-to-mix-multiple-graphs-on-the-same-page/
-
-http://rstudio-pubs-static.s3.amazonaws.com/2852_379274d7c5734f979e106dcf019ec46c.html
-
-###align plot panels
-
-https://cran.r-project.org/web/packages/egg/vignettes/Ecosystem.html
-
-###shinyapps
-
-http://shiny.rstudio.com/articles/shinyapps.html
-
-https://github.com/trestletech/dallas-police/
-
-
-###data tidy
-
-http://garrettgman.github.io/tidying/
-
-###replace multiple values
-
-plyr::mapvalues(wtime, from = c(6, 18, 12, 0), to = c("6am", "6pm", "12pm", "12am"))
-
-###Julia-figures
-
-https://gist.github.com/gizmaa/7214002
-
-###Adding hyperlinks to Shiny plots
-
-https://stackoverflow.com/questions/32057164/adding-hyperlinks-to-shiny-plots
-
-###Statistical Soup: ANOVA, ANCOVA, MANOVA, & MANCOVA
-
-http://www.statsmakemecry.com/smmctheblog/stats-soup-anova-ancova-manova-mancova
-
-https://cran.r-project.org/web/packages/MANOVA.RM/vignettes/Introduction_to_MANOVA.RM.html
-
-http://www.sthda.com/english/wiki/manova-test-in-r-multivariate-analysis-of-variance
-
-
-###Discussion about 'plotting multiple panels of UpSetR'
-
-https://github.com/hms-dbmi/UpSetR/issues/105
-
-
 ###ggplot2 tips
 
 venn-diagram: https://scriptsandstatistics.wordpress.com/2018/04/26/how-to-plot-venn-diagrams-using-r-ggplot2-and-ggforce/
 
 half-circle: https://stackoverflow.com/questions/28185743/draw-a-half-circle-with-ggplot2
 
-###Getting different results with set.seed()
+position two legends independently in ggplot: https://stackoverflow.com/questions/13143894/how-do-i-position-two-legends-independently-in-ggplot
+
+
+###draw figures with multiple panels
+
+#arrange the figures with 'gridExtra' package
+
+https://cran.r-project.org/web/packages/gridExtra/vignettes/arrangeGrob.html
+
+http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/81-ggplot2-easy-way-to-mix-multiple-graphs-on-the-same-page/
+
+http://rstudio-pubs-static.s3.amazonaws.com/2852_379274d7c5734f979e106dcf019ec46c.html
+
+#align plot panels
+
+https://cran.r-project.org/web/packages/egg/vignettes/Ecosystem.html
+
+#discussion about 'plotting multiple panels of UpSetR'
+
+https://github.com/hms-dbmi/UpSetR/issues/105
+
+
+###data tidy
+
+#general:
+
+http://garrettgman.github.io/tidying/
+
+#replace multiple values:
+
+plyr::mapvalues(wtime, from = c(6, 18, 12, 0), to = c("6am", "6pm", "12pm", "12am"))
+
+
+###statistical soup
+
+##solve the issue of getting different results with set.seed() from different R versions:
 
 https://community.rstudio.com/t/getting-different-results-with-set-seed/31624
 
+##about ANOVA, ANCOVA, MANOVA, & MANCOVA
+http://www.statsmakemecry.com/smmctheblog/stats-soup-anova-ancova-manova-mancova
+
+https://cran.r-project.org/web/packages/MANOVA.RM/vignettes/Introduction_to_MANOVA.RM.html
+
+http://www.sthda.com/english/wiki/manova-test-in-r-multivariate-analysis-of-variance
 
 ###UMAP and t-SNE
 
@@ -89,7 +80,18 @@ https://www.r-bloggers.com/playing-with-dimensions-from-clustering-pca-t-sne-to-
 
 https://www.r-bloggers.com/quick-and-easy-t-sne-analysis-in-r/
 
-###position two legends independently in ggplot
+###shinyapps
 
-https://stackoverflow.com/questions/13143894/how-do-i-position-two-legends-independently-in-ggplot
+#general:
 
+http://shiny.rstudio.com/articles/shinyapps.html
+
+https://github.com/trestletech/dallas-police/
+
+#adding hyperlinks to Shiny plots
+
+https://stackoverflow.com/questions/32057164/adding-hyperlinks-to-shiny-plots
+
+###Julia-figures
+
+https://gist.github.com/gizmaa/7214002
