@@ -72,6 +72,7 @@ plyr::mapvalues(wtime, from = c(6, 18, 12, 0), to = c("6am", "6pm", "12pm", "12a
 https://community.rstudio.com/t/getting-different-results-with-set-seed/31624
 
 ##about ANOVA, ANCOVA, MANOVA, & MANCOVA
+
 http://www.statsmakemecry.com/smmctheblog/stats-soup-anova-ancova-manova-mancova
 
 https://cran.r-project.org/web/packages/MANOVA.RM/vignettes/Introduction_to_MANOVA.RM.html
