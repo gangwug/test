@@ -70,10 +70,11 @@ http://www.sthda.com/english/wiki/manova-test-in-r-multivariate-analysis-of-vari
 https://github.com/hms-dbmi/UpSetR/issues/105
 
 
-###ggplot2 to draw VennDiagram
+###ggplot2 tips
 
-https://scriptsandstatistics.wordpress.com/2018/04/26/how-to-plot-venn-diagrams-using-r-ggplot2-and-ggforce/
+venn-diagram: https://scriptsandstatistics.wordpress.com/2018/04/26/how-to-plot-venn-diagrams-using-r-ggplot2-and-ggforce/
 
+half-circle: https://stackoverflow.com/questions/28185743/draw-a-half-circle-with-ggplot2
 
 ###Getting different results with set.seed()
 
