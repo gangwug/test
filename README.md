@@ -11,14 +11,14 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 
 ### Reference links
 
-###Graph gallery
+## Graph gallery
 
 https://www.r-graph-gallery.com/
 
 http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html
 
 
-###ggplot2 tips
+## ggplot2 tips
 
 venn-diagram: https://scriptsandstatistics.wordpress.com/2018/04/26/how-to-plot-venn-diagrams-using-r-ggplot2-and-ggforce/
 
@@ -27,7 +27,7 @@ half-circle: https://stackoverflow.com/questions/28185743/draw-a-half-circle-wit
 position two legends independently in ggplot: https://stackoverflow.com/questions/13143894/how-do-i-position-two-legends-independently-in-ggplot
 
 
-###draw figures with multiple panels
+## draw figures with multiple panels
 
 #arrange the figures with 'gridExtra' package
 
@@ -45,8 +45,16 @@ https://cran.r-project.org/web/packages/egg/vignettes/Ecosystem.html
 
 https://github.com/hms-dbmi/UpSetR/issues/105
 
+#UMAP and t-SNE
 
-###data tidy
+https://cran.r-project.org/web/packages/umap/vignettes/umap.html
+
+https://www.r-bloggers.com/playing-with-dimensions-from-clustering-pca-t-sne-to-carl-sagan/
+
+https://www.r-bloggers.com/quick-and-easy-t-sne-analysis-in-r/
+
+
+## data tidy
 
 #general:
 
@@ -57,7 +65,7 @@ http://garrettgman.github.io/tidying/
 plyr::mapvalues(wtime, from = c(6, 18, 12, 0), to = c("6am", "6pm", "12pm", "12am"))
 
 
-###statistical soup
+## statistical soup
 
 ##solve the issue of getting different results with set.seed() from different R versions:
 
@@ -70,15 +78,8 @@ https://cran.r-project.org/web/packages/MANOVA.RM/vignettes/Introduction_to_MANO
 
 http://www.sthda.com/english/wiki/manova-test-in-r-multivariate-analysis-of-variance
 
-###UMAP and t-SNE
 
-https://cran.r-project.org/web/packages/umap/vignettes/umap.html
-
-https://www.r-bloggers.com/playing-with-dimensions-from-clustering-pca-t-sne-to-carl-sagan/
-
-https://www.r-bloggers.com/quick-and-easy-t-sne-analysis-in-r/
-
-###shinyapps
+## shinyapps
 
 #general:
 
@@ -90,6 +91,7 @@ https://github.com/trestletech/dallas-police/
 
 https://stackoverflow.com/questions/32057164/adding-hyperlinks-to-shiny-plots
 
-###Julia-figures
+
+## Julia-figures
 
 https://gist.github.com/gizmaa/7214002
