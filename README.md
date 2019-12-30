@@ -28,6 +28,13 @@ position two legends independently in ggplot: https://stackoverflow.com/question
 
 introduction about color blind friendly: http://jfly.uni-koeln.de/color/
 
+examples of color bind friendly: 
+
+##blue panel: "#00AFBB", "#0072B2", "#56B4E9", "#33BBEE"
+##red panel: "#FC4E07", "#D55E00", "#EE3377"
+##orange panel: "#E7B800", "#E69F00"
+##other panel: "#009E73"(green), "#DDCC77"(yellow), "#CC79A7"(purple), "#7E6148B2"(grey)
+
 
 ### draw figures with multiple panels
 
