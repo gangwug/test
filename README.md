@@ -26,6 +26,8 @@ half-circle: https://stackoverflow.com/questions/28185743/draw-a-half-circle-wit
 
 position two legends independently in ggplot: https://stackoverflow.com/questions/13143894/how-do-i-position-two-legends-independently-in-ggplot
 
+introduction about color blind friendly: http://jfly.uni-koeln.de/color/
+
 
 ### draw figures with multiple panels
 
