@@ -9,15 +9,13 @@ After forking this repository, you can make some changes to the project, and sub
 For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
 
 
-###Reference links
-
-###Top50-ggplot2-figures
-
-http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html
+### Reference links
 
 ###Graph gallery
 
 https://www.r-graph-gallery.com/
+
+http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html
 
 
 ###ggplot2 tips
