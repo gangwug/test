@@ -38,6 +38,7 @@ examples of color bind friendly:
 
 ##other panel: "#009E73"(green), "#DDCC77"(yellow), "#CC79A7"(purple), "#7E6148B2"(grey)
 
+##creating a Timeline graphic using R and ggplot2: http://benalexkeen.com/creating-a-timeline-graphic-using-r-and-ggplot2/
 
 ### draw figures with multiple panels
 
