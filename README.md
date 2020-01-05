@@ -31,6 +31,7 @@ introduction about color blind friendly: http://jfly.uni-koeln.de/color/
 examples of color bind friendly: 
 
 ##blue panel
+
 a = c("#00AFBB", "#0072B2", "#56B4E9", "#33BBEE")
 
 ##red panel
