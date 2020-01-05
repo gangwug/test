@@ -55,6 +55,9 @@ e = c("#1B9E77", "#009E73", "#66A61E")
 f = c("#CC79A7", "#7570B3")
 
 ##other panel: "#7E6148B2"(grey)
+ca = c(a,b,c,d,e,f)
+caD = data.frame(ca = ca, xp = 1:length(ca), yp = 1:length(ca)) %>% dplyr::mutate(ca = factor(ca, levels = ca))
+ggplot(data = caD, aes(x = xp, y = yp, color = ca)) + geom_point(size = 6) + scale_color_manual(values = ca)
 
 ##creating a Timeline graphic using R and ggplot2: http://benalexkeen.com/creating-a-timeline-graphic-using-r-and-ggplot2/
 
