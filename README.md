@@ -34,9 +34,11 @@ examples of color bind friendly:
 a = c("#00AFBB", "#0072B2", "#56B4E9", "#33BBEE")
 
 ##red panel
+
 b = c("#FC4E07", "#D55E00", "#EE3377", "#E7298A")
 
 ##orange panel
+
 c = c("#E7B800", "#E69F00", "#D95F02")
 
 ##yellow panel
