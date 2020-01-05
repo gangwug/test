@@ -30,13 +30,28 @@ introduction about color blind friendly: http://jfly.uni-koeln.de/color/
 
 examples of color bind friendly: 
 
-##blue panel: "#00AFBB", "#0072B2", "#56B4E9", "#33BBEE"
+##blue panel
+a = c("#00AFBB", "#0072B2", "#56B4E9", "#33BBEE")
 
-##red panel: "#FC4E07", "#D55E00", "#EE3377"
+##red panel
+b = c("#FC4E07", "#D55E00", "#EE3377", "#E7298A")
 
-##orange panel: "#E7B800", "#E69F00"
+##orange panel
+c = c("#E7B800", "#E69F00", "#D95F02")
 
-##other panel: "#009E73"(green), "#DDCC77"(yellow), "#CC79A7"(purple), "#7E6148B2"(grey)
+##yellow panel
+
+d = c("#DDCC77", "#E6AB02", "#A6761D")
+
+##green panel
+
+e = c("#1B9E77", "#009E73", "#66A61E")
+
+##purple panel
+
+f = c("#CC79A7", "#7570B3")
+
+##other panel: "#7E6148B2"(grey)
 
 ##creating a Timeline graphic using R and ggplot2: http://benalexkeen.com/creating-a-timeline-graphic-using-r-and-ggplot2/
 
