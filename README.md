@@ -83,6 +83,11 @@ https://cran.r-project.org/web/packages/egg/vignettes/Ecosystem.html
 
 https://github.com/hms-dbmi/UpSetR/issues/105
 
+##free software
+
+https://enviragallery.com/5-free-alternatives-to-photoshop/
+
+
 #UMAP and t-SNE
 
 https://cran.r-project.org/web/packages/umap/vignettes/umap.html
