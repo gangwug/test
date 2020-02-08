@@ -28,6 +28,36 @@ position two legends independently in ggplot: https://stackoverflow.com/question
 
 introduction about color blind friendly: http://jfly.uni-koeln.de/color/
 
+distint colors: https://stackoverflow.com/questions/9563711/r-color-palettes-for-many-data-classes/41230685#41230685
+
+c25 <- c(
+  "dodgerblue2", "#E31A1C", # red
+  "green4",
+  "#6A3D9A", # purple
+  "#FF7F00", # orange
+  "black", "gold1",
+  "skyblue2", "#FB9A99", # lt pink
+  "palegreen2",
+  "#CAB2D6", # lt purple
+  "#FDBF6F", # lt orange
+  "gray70", "khaki2",
+  "maroon", "orchid1", "deeppink1", "blue1", "steelblue4",
+  "darkturquoise", "green1", "yellow4", "yellow3",
+  "darkorange4", "brown"
+)
+pie(rep(1, 25), col = c25)
+
+# install.packages("rcartocolor")
+# or
+# install.packages("remotes")
+# remotes::install_github("Nowosad/rcartocolor")
+library(rcartocolor)
+
+nColor <- 12
+scales::show_col(carto_pal(nColor, "Safe"))
+
+
+
 examples of color bind friendly: 
 
 ##blue panel
