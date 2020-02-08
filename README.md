@@ -31,15 +31,15 @@ introduction about color blind friendly: http://jfly.uni-koeln.de/color/
 distint colors: https://stackoverflow.com/questions/9563711/r-color-palettes-for-many-data-classes/41230685#41230685
 
 c25 <- c(
-  "dodgerblue2", "#E31A1C", # red
+  "dodgerblue2", "#E31A1C",
   "green4",
-  "#6A3D9A", # purple
-  "#FF7F00", # orange
+  "#6A3D9A", 
+  "#FF7F00", 
   "black", "gold1",
-  "skyblue2", "#FB9A99", # lt pink
+  "skyblue2", "#FB9A99",
   "palegreen2",
-  "#CAB2D6", # lt purple
-  "#FDBF6F", # lt orange
+  "#CAB2D6", 
+  "#FDBF6F",
   "gray70", "khaki2",
   "maroon", "orchid1", "deeppink1", "blue1", "steelblue4",
   "darkturquoise", "green1", "yellow4", "yellow3",
