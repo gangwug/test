@@ -47,16 +47,10 @@ c25 <- c(
 )
 pie(rep(1, 25), col = c25)
 
-# install.packages("rcartocolor")
-# or
-# install.packages("remotes")
-# remotes::install_github("Nowosad/rcartocolor")
+install.packages("rcartocolor")
 library(rcartocolor)
-
 nColor <- 12
 scales::show_col(carto_pal(nColor, "Safe"))
-
-
 
 examples of color bind friendly: 
 
