@@ -43,8 +43,8 @@ c25 <- c(
   "gray70", "khaki2",
   "maroon", "orchid1", "deeppink1", "blue1", "steelblue4",
   "darkturquoise", "green1", "yellow4", "yellow3",
-  "darkorange4", "brown"
-)
+  "darkorange4", "brown")
+
 pie(rep(1, 25), col = c25)
 
 install.packages("rcartocolor")
