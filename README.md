@@ -35,7 +35,7 @@ c25 <- c(
   "green4",
   "#6A3D9A", 
   "#FF7F00", 
-  "black", "gold1",
+  "gold1",
   "skyblue2", "#FB9A99",
   "palegreen2",
   "#CAB2D6", 
@@ -43,7 +43,7 @@ c25 <- c(
   "gray70", "khaki2",
   "maroon", "orchid1", "deeppink1", "blue1", "steelblue4",
   "darkturquoise", "green1", "yellow4", "yellow3",
-  "darkorange4", "brown")
+  "darkorange4", "brown", "black")
 
 pie(rep(1, 25), col = c25)
 
