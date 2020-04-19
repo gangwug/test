@@ -107,6 +107,10 @@ https://beep-boopr.github.io/ubcBIOL548L/articles/group-03_Using-cowplot-multi-p
 
 https://cran.r-project.org/web/packages/egg/vignettes/Ecosystem.html
 
+#specify a second axis
+
+https://ggplot2.tidyverse.org/reference/sec_axis.html
+
 #discussion about 'plotting multiple panels of UpSetR'
 
 https://github.com/hms-dbmi/UpSetR/issues/105
