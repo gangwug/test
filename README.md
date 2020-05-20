@@ -8,6 +8,31 @@ After forking this repository, you can make some changes to the project, and sub
 
 For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
 
+## tricky errors that experienced
+
+RCPPARMADILLO AND OS X MAVERICKS "-LGFORTRAN" AND "-LQUADMATH" ERROR 
+
+(https://thecoatlessprofessor.com/programming/cpp/rcpp-rcpparmadillo-and-os-x-mavericks-lgfortran-and-lquadmath-error/)
+
+MACOS SIERRA (10.12) OR GFORTRAN 6.3.0
+The following provides a procedure to use the macOS Sierra gfortran routine with R for those on macOS Sierra. Please note, if you installed the gfortran 6.1.0 binary, then do NOT use the directions below for installing gfortran 6.3.0.
+
+First, download the official gfortran 6.3.0 binary for macOS Sierra (10.12) from http://gcc.gnu.org/wiki/GFortranBinaries#MacOS and then install it.
+
+Next, we need to set a path in a file called ~/.R/Makevars, which handles compilation, so that it recognize the gfortran 6.3.0 binary. So, we’ll create a ~/.R/Makevars file – if one does not exist – and then add a special implicit variable called FLIBS that controls which Fortran library is used. This is detailed in Section 6.3.2: macOS of the R Installation and Administration
+
+Open Terminal and type:
+
+mkdir ~/.R
+cat << EOF >> ~/.R/Makevars
+FLIBS=-L/usr/local/gfortran/lib/gcc/x86_64-apple-darwin16/6.3.0 -L/usr/local/gfortran/lib -lgfortran -lquadmath -lm
+EOF
+LATER
+Check back when new versions of R are released.
+
+
+
+
 
 ## Reference links
 
