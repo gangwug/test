@@ -164,6 +164,10 @@ http://garrettgman.github.io/tidying/
 
 plyr::mapvalues(wtime, from = c(6, 18, 12, 0), to = c("6am", "6pm", "12pm", "12am"))
 
+#easy way of generate combinations of two vectors
+
+expand.grid(height = seq(60, 80, 5), weight = seq(100, 300, 50), sex = c("Male","Female"))
+
 
 ### statistical soup
 
