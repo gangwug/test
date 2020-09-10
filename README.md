@@ -153,6 +153,10 @@ https://www.r-bloggers.com/playing-with-dimensions-from-clustering-pca-t-sne-to-
 
 https://www.r-bloggers.com/quick-and-easy-t-sne-analysis-in-r/
 
+#multiple density plot (geom_density_ridges)
+
+http://www.sthda.com/english/articles/32-r-graphics-essentials/133-plot-one-variable-frequency-graph-density-distribution-and-more/
+
 
 ### data tidy
 
