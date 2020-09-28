@@ -191,6 +191,12 @@ http://www.sthda.com/english/wiki/manova-test-in-r-multivariate-analysis-of-vari
 
 https://www.biostars.org/p/252937/
 
+##hazard ratio calculation
+
+http://www.sthda.com/english/wiki/cox-proportional-hazards-model
+
+
+
 ### shinyapps
 
 #general:
