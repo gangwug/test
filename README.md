@@ -195,6 +195,11 @@ https://www.biostars.org/p/252937/
 
 http://www.sthda.com/english/wiki/cox-proportional-hazards-model
 
+##Regularized Regression
+
+https://bradleyboehmke.github.io/HOML/regularized-regression.html
+
+
 
 
 ### shinyapps
