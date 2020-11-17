@@ -136,6 +136,10 @@ https://cran.r-project.org/web/packages/egg/vignettes/Ecosystem.html
 
 https://ggplot2.tidyverse.org/reference/sec_axis.html
 
+#Modifying facet scales in ggplot2
+
+https://fishandwhistle.net/post/2018/modifying-facet-scales-in-ggplot2/
+
 #discussion about 'plotting multiple panels of UpSetR'
 
 https://github.com/hms-dbmi/UpSetR/issues/105
