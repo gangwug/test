@@ -208,6 +208,9 @@ http://www.sthda.com/english/wiki/cox-proportional-hazards-model
 https://bradleyboehmke.github.io/HOML/regularized-regression.html
 
 
+##CNN vs. RNN vs. ANN – Analyzing 3 Types of Neural Networks in Deep Learning
+
+https://www.analyticsvidhya.com/blog/2020/02/cnn-vs-rnn-vs-mlp-analyzing-3-types-of-neural-networks-in-deep-learning/
 
 
 ### shinyapps
