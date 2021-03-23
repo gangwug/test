@@ -231,6 +231,9 @@ https://stackoverflow.com/questions/32057164/adding-hyperlinks-to-shiny-plots
 
 https://github.com/jespermaag/gganatogram
 
+### Chinese introduction about S4 class
+
+https://my.oschina.net/bgbfbsdchenzheng/blog/540968
 
 ### Julia-figures
 
