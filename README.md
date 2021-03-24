@@ -237,6 +237,8 @@ https://cran.r-project.org/web/packages/lubridate/vignettes/lubridate.html
 
 https://data.library.virginia.edu/working-with-dates-and-time-in-r-using-the-lubridate-package/
 
+https://bookdown.org/hneth/ds4psy/10-3-time-lubridate.html
+
 
 ### Chinese introduction about S4 class
 
