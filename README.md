@@ -231,6 +231,13 @@ https://stackoverflow.com/questions/32057164/adding-hyperlinks-to-shiny-plots
 
 https://github.com/jespermaag/gganatogram
 
+#lubridate package
+
+https://cran.r-project.org/web/packages/lubridate/vignettes/lubridate.html
+
+https://data.library.virginia.edu/working-with-dates-and-time-in-r-using-the-lubridate-package/
+
+
 ### Chinese introduction about S4 class
 
 https://my.oschina.net/bgbfbsdchenzheng/blog/540968
