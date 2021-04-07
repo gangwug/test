@@ -180,6 +180,10 @@ expand.grid(height = seq(60, 80, 5), weight = seq(100, 300, 50), sex = c("Male",
 
 http://zevross.com/blog/2019/06/11/the-power-of-three-purrr-poseful-iteration-in-r-with-map-pmap-and-imap/
 
+#the introduction about time formatting and convertions
+
+https://www.flutterbys.com.au/stats/tut/tut3.4.html
+
 
 ### statistical soup
 
