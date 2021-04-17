@@ -258,4 +258,6 @@ R for Data Science: https://r4ds.had.co.nz/
 
 Text Mining with R: https://www.tidytextmining.com/index.html
 
+        a. Text Mining and Sentiment Analysis: Analysis with R: https://www.red-gate.com/simple-talk/sql/bi/text-mining-and-sentiment-analysis-with-r/
+
 
