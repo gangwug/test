@@ -251,3 +251,11 @@ https://my.oschina.net/bgbfbsdchenzheng/blog/540968
 ### Julia-figures
 
 https://gist.github.com/gizmaa/7214002
+
+### good eBook links
+
+R for Data Science: https://r4ds.had.co.nz/
+
+Text Mining with R: https://www.tidytextmining.com/index.html
+
+
