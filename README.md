@@ -42,6 +42,7 @@ https://www.r-graph-gallery.com/
 
 http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html
 
+Chart Combinations: Proportional Area Charts: https://datavizcatalogue.com/blog/chart-combinations-proportional-area-charts/
 
 ### ggplot2 tips
 
