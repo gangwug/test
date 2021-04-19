@@ -230,6 +230,11 @@ https://github.com/trestletech/dallas-police/
 
 https://stackoverflow.com/questions/32057164/adding-hyperlinks-to-shiny-plots
 
+### interactive plots
+
+The Wilke Lab: https://wilkelab.org/SDS375/slides/interactive-plots.html#1
+
+
 ### useful packages
 
 #anatogram of human and mouse
