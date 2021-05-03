@@ -115,6 +115,8 @@ ggplot(data = caD, aes(x = xp, y = yp, color = ca)) + geom_point(size = 6) + sca
 
 ##creating a Timeline graphic using R and ggplot2: http://benalexkeen.com/creating-a-timeline-graphic-using-r-and-ggplot2/
 
+##annotate outside the plot: https://stackoverflow.com/questions/12409960/ggplot2-annotate-outside-of-plot
+
 ### draw figures with multiple panels
 
 #arrange the figures with 'gridExtra' package
