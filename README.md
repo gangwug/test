@@ -10,6 +10,8 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 
 ## tricky errors that experienced
 
+## case 1:
+
 RCPPARMADILLO AND OS X MAVERICKS "-LGFORTRAN" AND "-LQUADMATH" ERROR 
 
 (https://thecoatlessprofessor.com/programming/cpp/rcpp-rcpparmadillo-and-os-x-mavericks-lgfortran-and-lquadmath-error/)
@@ -30,8 +32,15 @@ EOF
 LATER
 Check back when new versions of R are released.
 
+## case 2:
 
-
+Error: package or namespace load failed for ‘gdtools’ in dyn.load(file, DLLpath = DLLpath, ...):
+ unable to load shared object '/Library/Frameworks/R.framework/Versions/3.5/Resources/library/gdtools/libs/gdtools.so':
+  dlopen(/Library/Frameworks/R.framework/Versions/3.5/Resources/library/gdtools/libs/gdtools.so, 6): Library not loaded: /opt/X11/lib/libcairo.2.dylib
+  Referenced from: /Library/Frameworks/R.framework/Versions/3.5/Resources/library/gdtools/libs/gdtools.so
+  Reason: image not found
+  
+Does all your packages complain about this? Library not loaded: /opt/X11/lib/libcairo.2.dylib Do you have package Cairo installed? Also, on which operating system are you? If you are on MAC OS try installing xquartz https://www.xquartz.org/
 
 
 ## Reference links
