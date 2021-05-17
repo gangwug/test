@@ -122,6 +122,14 @@ caD = data.frame(ca = ca, xp = 1:length(ca), yp = 1:length(ca)) %>% dplyr::mutat
 ggplot(data = caD, aes(x = xp, y = yp, color = ca)) + geom_point(size = 6) + scale_color_manual(values = ca)
 
 
+###use RColorBrewer
+
+library(RColorBrewer)
+n <- 60
+qual_col_pals = brewer.pal.info[brewer.pal.info$category == 'qual',]
+col_vector = unlist(mapply(brewer.pal, qual_col_pals$maxcolors, rownames(qual_col_pals)))
+
+
 ##creating a Timeline graphic using R and ggplot2: http://benalexkeen.com/creating-a-timeline-graphic-using-r-and-ggplot2/
 
 ##annotate outside the plot: https://stackoverflow.com/questions/12409960/ggplot2-annotate-outside-of-plot
