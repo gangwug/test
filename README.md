@@ -125,9 +125,13 @@ ggplot(data = caD, aes(x = xp, y = yp, color = ca)) + geom_point(size = 6) + sca
 ###use RColorBrewer
 
 library(RColorBrewer)
+
 n <- 60
+
 qual_col_pals = brewer.pal.info[brewer.pal.info$category == 'qual',]
+
 col_vector = unlist(mapply(brewer.pal, qual_col_pals$maxcolors, rownames(qual_col_pals)))
+
 
 
 ##creating a Timeline graphic using R and ggplot2: http://benalexkeen.com/creating-a-timeline-graphic-using-r-and-ggplot2/
