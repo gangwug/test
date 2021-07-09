@@ -209,6 +209,11 @@ http://zevross.com/blog/2019/06/11/the-power-of-three-purrr-poseful-iteration-in
 https://www.flutterbys.com.au/stats/tut/tut3.4.html
 
 
+#mine the Pubmed text 
+
+https://rstudio-pubs-static.s3.amazonaws.com/235239_f75d5005bc0f4015bd97fb4be182144a.html
+
+
 ### statistical soup
 
 ##solve the issue of getting different results with set.seed() from different R versions:
