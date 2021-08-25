@@ -282,6 +282,14 @@ https://bookdown.org/hneth/ds4psy/10-3-time-lubridate.html
 
 https://my.oschina.net/bgbfbsdchenzheng/blog/540968
 
+### split-spot in SRA toolkit introduction
+
+https://www.biostars.org/p/12047/
+
+This is the description I received the following description from the SRA staff (Adam Stine).
+
+The spot model is Illumina GA centric.  The flowcells have the locations where the adapters have stuck them to the glass of the lane.  There are X and Y coordinates that identify these 'spots'.   As the camera reads the fluorescent flashes during sequencing, the coordinates indicate which spot the new base is added to. 
+
 ### Julia-figures
 
 https://gist.github.com/gizmaa/7214002
