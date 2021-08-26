@@ -290,6 +290,11 @@ This is the description I received the following description from the SRA staff 
 
 The spot model is Illumina GA centric.  The flowcells have the locations where the adapters have stuck them to the glass of the lane.  There are X and Y coordinates that identify these 'spots'.   As the camera reads the fluorescent flashes during sequencing, the coordinates indicate which spot the new base is added to. 
 
+### how do gene annotation to the array probe
+
+http://biolearnr.blogspot.com/2017/05/bfx-clinic-getting-up-to-date.html
+
+
 ### Julia-figures
 
 https://gist.github.com/gizmaa/7214002
