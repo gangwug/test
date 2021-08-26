@@ -300,8 +300,8 @@ https://standage.github.io/that-darn-cache-configuring-the-sra-toolkit.html
 
 mkdir -p ~/.ncbi
 echo '/repository/user/main/public/root = "/scratch/standage/sra-cache"' > ~/.ncbi/user-settings.mkfg
-# Uncomment the next command if you want to disable network access altogether
-# echo '/repository/user/cache-disabled = "true"' > ~/.ncbi/user-settings.mkfg
+#### #Uncomment the next command if you want to disable network access altogether
+#### #echo '/repository/user/cache-disabled = "true"' > ~/.ncbi/user-settings.mkfg
 
 
 ### Julia-figures
