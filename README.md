@@ -294,6 +294,9 @@ The spot model is Illumina GA centric.  The flowcells have the locations where t
 
 http://biolearnr.blogspot.com/2017/05/bfx-clinic-getting-up-to-date.html
 
+https://support.bioconductor.org/p/85002/
+
+
 ### how to skip the cache files during sra downloading
 
 https://standage.github.io/that-darn-cache-configuring-the-sra-toolkit.html
