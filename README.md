@@ -300,6 +300,9 @@ https://support.bioconductor.org/p/85002/
 
 https://www.labome.com/method/RNA-seq.html
 
+### trim the adaptor sequence
+
+https://dnatech.genomecenter.ucdavis.edu/faqs/when-should-i-trim-my-illumina-reads-and-how-should-i-do-it/
 
 ### how to skip the cache files during sra downloading
 
