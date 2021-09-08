@@ -296,6 +296,10 @@ http://biolearnr.blogspot.com/2017/05/bfx-clinic-getting-up-to-date.html
 
 https://support.bioconductor.org/p/85002/
 
+### introduction about RNA-seq
+
+https://www.labome.com/method/RNA-seq.html
+
 
 ### how to skip the cache files during sra downloading
 
