@@ -282,6 +282,11 @@ https://bookdown.org/hneth/ds4psy/10-3-time-lubridate.html
 
 https://my.oschina.net/bgbfbsdchenzheng/blog/540968
 
+### develop R package
+
+https://tinyheero.github.io/jekyll/update/2015/07/26/making-your-first-R-package.html
+
+
 ### split-spot in SRA toolkit introduction
 
 https://www.biostars.org/p/12047/
