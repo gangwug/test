@@ -360,4 +360,8 @@ Text Mining with R: https://www.tidytextmining.com/index.html
 
         a. Text Mining and Sentiment Analysis: Analysis with R: https://www.red-gate.com/simple-talk/sql/bi/text-mining-and-sentiment-analysis-with-r/
 
+### good video links
+
+how crispr works: https://www.youtube.com/watch?v=MnYppmstxIs
+
 
