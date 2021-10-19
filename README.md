@@ -257,6 +257,11 @@ https://cran.r-project.org/web/packages/MANOVA.RM/vignettes/Introduction_to_MANO
 
 http://www.sthda.com/english/wiki/manova-test-in-r-multivariate-analysis-of-variance
 
+##posthoc analysis after ANOVA analysis
+
+https://statisticsbyjim.com/anova/post-hoc-tests-anova/
+
+
 ##example of fisher exact test
 
 https://www.biostars.org/p/252937/
