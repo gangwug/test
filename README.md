@@ -261,6 +261,8 @@ http://www.sthda.com/english/wiki/manova-test-in-r-multivariate-analysis-of-vari
 
 https://statisticsbyjim.com/anova/post-hoc-tests-anova/
 
+https://www.statology.org/anova-post-hoc-tests/
+
 
 ##example of fisher exact test
 
