@@ -248,6 +248,10 @@ https://rstudio-pubs-static.s3.amazonaws.com/235239_f75d5005bc0f4015bd97fb4be182
 https://rpubs.com/Saskia/520216
 
 
+#DBSCAN: density-based clustering for discovering clusters
+
+http://www.sthda.com/english/wiki/wiki.php?id_contents=7940
+
 ### statistical soup
 
 ##solve the issue of getting different results with set.seed() from different R versions:
