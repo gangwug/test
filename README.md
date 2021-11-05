@@ -243,6 +243,11 @@ https://www.flutterbys.com.au/stats/tut/tut3.4.html
 https://rstudio-pubs-static.s3.amazonaws.com/235239_f75d5005bc0f4015bd97fb4be182144a.html
 
 
+#dimension reduction
+
+https://rpubs.com/Saskia/520216
+
+
 ### statistical soup
 
 ##solve the issue of getting different results with set.seed() from different R versions:
