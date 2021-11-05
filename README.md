@@ -380,4 +380,10 @@ Text Mining with R: https://www.tidytextmining.com/index.html
 
 how crispr works: https://www.youtube.com/watch?v=MnYppmstxIs
 
+### Unsupervised machine learning/clusering
+
+NMF, k-means, DBSCAN
+
+https://www.datanovia.com/en/blog/types-of-clustering-methods-overview-and-quick-start-r-code/
+
 
