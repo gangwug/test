@@ -295,6 +295,10 @@ https://bradleyboehmke.github.io/HOML/regularized-regression.html
 
 https://www.analyticsvidhya.com/blog/2020/02/cnn-vs-rnn-vs-mlp-analyzing-3-types-of-neural-networks-in-deep-learning/
 
+##Cox Proportional-Hazards Model
+
+http://www.sthda.com/english/wiki/cox-proportional-hazards-model
+
 
 ### shinyapps
 
