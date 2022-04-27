@@ -316,6 +316,9 @@ https://stackoverflow.com/questions/32057164/adding-hyperlinks-to-shiny-plots
 
 The Wilke Lab: https://wilkelab.org/SDS375/slides/interactive-plots.html#1
 
+### R Shiny app tutorial # 10 - download plot in shiny- PDF, PNG
+
+https://www.youtube.com/watch?v=LSnWGmVkB6A&ab_channel=AbhinavAgrawal
 
 ### useful packages
 
