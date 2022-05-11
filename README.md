@@ -271,6 +271,10 @@ https://cran.r-project.org/web/packages/MANOVA.RM/vignettes/Introduction_to_MANO
 
 http://www.sthda.com/english/wiki/manova-test-in-r-multivariate-analysis-of-variance
 
+###an demo of one way anova plus posthoc analysis
+
+https://www.statology.org/one-way-anova-r/
+
 ##posthoc analysis after ANOVA analysis
 
 https://statisticsbyjim.com/anova/post-hoc-tests-anova/
