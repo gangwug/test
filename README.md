@@ -84,6 +84,11 @@ https://www.datanovia.com/en/blog/types-of-clustering-methods-overview-and-quick
 
 https://www.analyticsvidhya.com/blog/2020/02/cnn-vs-rnn-vs-mlp-analyzing-3-types-of-neural-networks-in-deep-learning/
 
+##Deep Learning Project in Python with Keras Step-by-Step
+
+https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
+
+
 
 # Reference links
 
