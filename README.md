@@ -72,6 +72,19 @@ Error: package or namespace load failed for ‘gdtools’ in dyn.load(file, DLLp
 Does all your packages complain about this? Library not loaded: /opt/X11/lib/libcairo.2.dylib Do you have package Cairo installed? Also, on which operating system are you? If you are on MAC OS try installing xquartz https://www.xquartz.org/
 
 
+#Machine learning
+
+## Unsupervised machine learning/clusering
+
+NMF, k-means, DBSCAN
+
+https://www.datanovia.com/en/blog/types-of-clustering-methods-overview-and-quick-start-r-code/
+
+##CNN vs. RNN vs. ANN – Analyzing 3 Types of Neural Networks in Deep Learning
+
+https://www.analyticsvidhya.com/blog/2020/02/cnn-vs-rnn-vs-mlp-analyzing-3-types-of-neural-networks-in-deep-learning/
+
+
 # Reference links
 
 ## The-world-of-faculty
@@ -297,11 +310,6 @@ http://www.sthda.com/english/wiki/cox-proportional-hazards-model
 
 https://bradleyboehmke.github.io/HOML/regularized-regression.html
 
-
-##CNN vs. RNN vs. ANN – Analyzing 3 Types of Neural Networks in Deep Learning
-
-https://www.analyticsvidhya.com/blog/2020/02/cnn-vs-rnn-vs-mlp-analyzing-3-types-of-neural-networks-in-deep-learning/
-
 ##Cox Proportional-Hazards Model
 
 http://www.sthda.com/english/wiki/cox-proportional-hazards-model
@@ -398,11 +406,4 @@ Text Mining with R: https://www.tidytextmining.com/index.html
 ### good video links
 
 how crispr works: https://www.youtube.com/watch?v=MnYppmstxIs
-
-### Unsupervised machine learning/clusering
-
-NMF, k-means, DBSCAN
-
-https://www.datanovia.com/en/blog/types-of-clustering-methods-overview-and-quick-start-r-code/
-
 
