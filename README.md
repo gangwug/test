@@ -72,7 +72,7 @@ Error: package or namespace load failed for ‘gdtools’ in dyn.load(file, DLLp
 Does all your packages complain about this? Library not loaded: /opt/X11/lib/libcairo.2.dylib Do you have package Cairo installed? Also, on which operating system are you? If you are on MAC OS try installing xquartz https://www.xquartz.org/
 
 
-#Machine learning
+# Machine learning
 
 ## Unsupervised machine learning/clusering
 
