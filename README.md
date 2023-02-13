@@ -378,6 +378,10 @@ http://biolearnr.blogspot.com/2017/05/bfx-clinic-getting-up-to-date.html
 
 https://support.bioconductor.org/p/85002/
 
+### The UCSC genome brower coordinate (0-start vs 1-start)
+
+https://genome-blog.soe.ucsc.edu/blog/2016/12/12/the-ucsc-genome-browser-coordinate-counting-systems/
+
 ### introduction about RNA-seq
 
 https://www.labome.com/method/RNA-seq.html
