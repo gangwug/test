@@ -88,6 +88,9 @@ https://www.analyticsvidhya.com/blog/2020/02/cnn-vs-rnn-vs-mlp-analyzing-3-types
 
 https://machinelearningmastery.com/tutorial-first-neural-network-python-keras/
 
+## Semantic segmentation introduction
+
+https://www.superannotate.com/blog/guide-to-semantic-segmentation
 
 
 # Reference links
